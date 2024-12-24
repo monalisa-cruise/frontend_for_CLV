@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend_for_CLV/static/css/main.f855e6bc.css",
+    "main.js": "/frontend_for_CLV/static/js/main.68f9b7e9.js",
+    "static/js/488.e75445ad.chunk.js": "/frontend_for_CLV/static/js/488.e75445ad.chunk.js",
+    "index.html": "/frontend_for_CLV/index.html",
+    "main.f855e6bc.css.map": "/frontend_for_CLV/static/css/main.f855e6bc.css.map",
+    "main.68f9b7e9.js.map": "/frontend_for_CLV/static/js/main.68f9b7e9.js.map",
+    "488.e75445ad.chunk.js.map": "/frontend_for_CLV/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.68f9b7e9.js"
+  ]
+}
