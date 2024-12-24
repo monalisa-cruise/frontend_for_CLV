@@ -7,7 +7,7 @@ const App = () => {
     const [sortOrder, setSortOrder] = useState('asc');
 
     useEffect(() => {
-        fetch('http://localhost:50000/api/candidates')
+        fetch('https://candidate-list-viewer.onrender.com/api/candidates')
             .then((response) => response.json())
             .then((data) => setCandidates(data));
     }, []);
